@@ -5,7 +5,7 @@
 
 <br>
 <b>Description:</b> Data and Dashboard to present the mainly managerment informations by Alura Pets, a fictionate Pet Shop.<p><br>
-<b>Projeto:</b> Challenge BI<br>
+<b>Project:</b>Dashboard to Pet Shop<br>
 <b>Area:</b> Data Science<br>
 <b>Type:</b> Business Intelligence<br>
 
